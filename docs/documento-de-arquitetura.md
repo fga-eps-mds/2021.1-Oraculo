@@ -58,9 +58,9 @@
 ## 4.3 Descrições de Casos de Uso
 |Épico|Caso de uso|Descrição|
 |-----|-----------|---------|
-|E1|Solicitação de informações a respeito Políticas Públicas|Buscar e dar o retorno sobre Policas Públicas|
-|E2|Solicitação de informações a respeito da vacinação na região|Obter a localização do usuário, buscar e dar o retorno sobre a vacinação em tal região|
-|E3|Solicitação de informações a respeito da prevenção em lugares específicos|Buscar e dar o retorno sobre prevenções no lugar especificado|
+|E1| - | - |
+|E2| - | - |
+|E3| - | - |
 # 5. Visão Lógica
 ## 5.1 Diagrama de Pacotes
 
