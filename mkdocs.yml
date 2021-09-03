@@ -1,1 +1,17 @@
-site_name: My Docs
+site_name: 2021.1 - PC-GO
+
+repo_name: '2021.1-PC-GO'
+repo_url: 'https://github.com/fga-eps-mds/2021.1-PC-GO'
+
+theme:
+  name: 'material'
+  language: pt
+  features:
+    - navigation.tabs
+    - navigation.sections
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search:
+      lang: pt
