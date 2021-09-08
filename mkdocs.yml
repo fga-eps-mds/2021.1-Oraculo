@@ -17,6 +17,6 @@ plugins:
       lang: pt
 
 nav:
-  - Home: index.html
+  - Home: index.md
   - Documentação:
       - Documento de Arquitetura: documento-de-arquitetura.md
