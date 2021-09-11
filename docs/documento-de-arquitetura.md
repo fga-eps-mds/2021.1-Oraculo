@@ -23,7 +23,7 @@ Neste documento serão descritos os componentes de software, padrões arquitetur
 |FGA|Faculdade do Gama|
 |MDS|Métodos de Desenvolvimento de Software|
 |UNB|Universidade de Brasília|
-|PC-GO|Polícia Civil do Estado de Goiás|
+|GIPC-GO|Gerência de Identificação da Polícia Civil do Estado de Goiás|
 |Backend|Parte do sistema responsável por prover e organizar recursos para a interfáce do sistema|
 |Frontend|Parte do sistema responsável por ser a interfáce entre o sistema e o usuário|
 |API|Application Programming Interface|
