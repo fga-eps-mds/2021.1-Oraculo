@@ -5,7 +5,7 @@
   |----|------|---------|-----|  
   |10/08/2021|0.1|Abertura do documento de Arquitetura|Érico Maximiano Bandeira|
   |07/09/2021|0.2|Adição da introdução e Representação da arquitetura|Max Henrique Barbosa|
-
+  |11/09/2021|0.3|Adição de imagem e alteração na Representação da arquitetura|Max Henrique Barbosa|
 
 ## 1. Introdução
 ### 1.1 Finalidade
@@ -28,28 +28,37 @@ Neste documento serão descritos os componentes de software, padrões arquitetur
 |Frontend|Parte do sistema responsável por ser a interfáce entre o sistema e o usuário|
 |API|Application Programming Interface|
 
-### 1.4 Visão Geral
-
-O presente documento faz o detalhamento e descrição de características da arquitetura escolhidas pela equipe de desenvolvimento para a solução no software do projeto Oráculo. Nele estará presente:
-
-| |Tópico|Descrição|
-|-|------|---------|
-|1|Introdução| - |
-|2|Representação Arquitetural| - |
-|3|Metas e Restrições da Arquitetura| - |
-|4|Visão dos Casos de Uso| - |
-|5|Visão Lógica| - |
-|6|Tamanho e Desempenho| - |
-|7|Qualidade| - |
-
 ## 2. Representação da Arquitetura
 
-A arquitetura utilizada contém dois ambientes diferentes para a nossa aplicação, o ambiente de controle de dados que é conhecido como API e um ambiente web para os usuarios, onde poderam registrar, iniciar e acompanhar o andamento de processos internos.
+![Diagrama de relações](docs/imgs/Diagrama de relacoes.png)
 
-Com relação a API, o projeto **Oráculo** será desenvolvido utilizando uma arquitetura orientada a microserviços, que é utilizada para desenvolver uma aplicação como um conjunto de pequenos serviços, que funcionam com seu próprio processo. Cada serviço é desenvolvido em torno de um conjunto de regras de negócio específicas, e é implementado de forma independente.
+O diagrama representa a divisão da aplicação em microsserviços de usuário, clientes e demandas e suas correlações.
 
- - Usuário, serviço responsável por conter as lógicas de autenticação e armazenar as informações dos usuários.
- - Processos, serviço responsável por manter as lógicas de armazenamento dos metadados e do histórico de alterações dos processos.
+#### Microsserviços
+
+Os microsserviços foram construídos utilizando Node.Js como framework, onde cada microsserviço tem um banco de dados independente. Para o controle e armazenamento dos dados, foi empregado o banco de dados relacional PostgreSQL.
+
+A arquitetura do projeto **Oráculo** será desenvolvido utilizando uma arquitetura orientada a microserviços, onde cada serviço irá possuir um ambiente próprio para o seu desenvolvimento contendo a sua respectiva API para controle de dados sendo esses:
+
+ - Usuário: serviço responsável por conter as lógicas de autenticação e armazenar as informações dos usuários; 
+
+ - Processos: serviço responsável pelo gerenciamento, registro, inicio e acompanhamento de processos internos; 
+ 
+ - Tags: que serão utilizadas para auxiliar na marcação dos processos.
+
+#### Front-End
+
+A aplicação web utiliza no front-end o framework React. A divisão é feita em Pages, Services, Components e Constants
+
+ - Pages: armazena as telas do website.
+
+ - Services: local onde são realizadas as comunicações com a API.
+
+ - Components: reúne os componentes utilizados nas telas da aplicação, como botões e a navbar.
+
+ - Constants: armazena os códigos das cores utilizadas.
+
+
 
 <!-- Adicionar imagem de representação -->
 
@@ -62,9 +71,9 @@ O Node.js pode ser definido como um ambiente de execução Javascript server-sid
 Isso significa que com o Node.js é possível criar aplicações Javascript para rodar como uma aplicação standalone em uma máquina, não dependendo de um browser para a execução, como estamos acostumados.
 O principal motivo de sua adoção é a sua alta capacidade de escala. Além disso, sua arquitetura, flexibilidade e baixo custo, o tornam uma boa escolha para implementação de Microsserviços e componentes da arquitetura Serverless.
 
-#### NextJs
+#### React
 
-O front-end será desenvolvido utilizando o framework NextJs. é uma estrutura da web de desenvolvimento front-end React de código aberto criada por Vercel que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para aplicativos da web baseados em React. É uma estrutura pronta para produção que permite que os desenvolvedores criem rapidamente sites JAMstack estáticos e dinâmicos
+O front-end será desenvolvido utilizando o framework React esta que é uma biblioteca declarativa de JavaScript criada pelo Facebook em 2011 usada para a criação de interfaces de usuário, para otimizar a atualização e a sincronização de atividades simultâneas no feed de notícias da rede social. Com react a conexão entre HTML, CSS, JavaScript e os demais componentes acaba sendo simplificada.
 
 #### PostgreSQL
 
@@ -74,15 +83,16 @@ O PostgreSQL tem o papel de gerenciar os dados desses bancos de maneira organiza
 ## 3. Metas e restrições de Arquitetura 
 
 ### 3.1 Metas
- - Compatibilidade com os principais browsers da atualidade: Mozilla Firefox, Google Chrome e Internet Explorer
- - Modularidade: o código deve ter baixo acoplamento e alta modularidade, para facilitar a manutenabilidade
-
+ - Modularidade o código deve ter baixo acoplamento e alta modularidade, para facilitar a manutenabilidade
+ - Estabilidade do Sistema
+ - Fácil manutenção
 
 ### 3.2 Restrições
- - Banco de dados relacional PostgreSQL, pois o sistema deverá ser executado em produção
- - React: 
+ - **Node.Js:** desenvolvimento dos microsserviços;
+ - **React:** framework javascript utilizado para a criação da interface do usuário;
+ - **PostgreSQL:** Banco de dados relacional.
 
-### 3.3 Requisitos não funcionais
+<!-- ### 3.3 Requisitos não funcionais
 -
 
 ## 4. Visão dos Casos de Uso
@@ -105,10 +115,10 @@ O PostgreSQL tem o papel de gerenciar os dados desses bancos de maneira organiza
 
 ## 6. Tamanho e desempenho
 
-## 7. Qualidade
+## 7. Qualidade -->
   
-## 8. Referências
+## Referências
  
  - Documentação do Postgre - https://www.postgresql.org/docs/
  - Documentação do NodeJs - https://nodejs.org/en/docs/
- - Documentação do NextJs - https://nextjs.org/
+ - Documentação do React - https://pt-br.reactjs.org/
