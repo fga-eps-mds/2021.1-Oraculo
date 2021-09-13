@@ -1,6 +1,6 @@
 # Guia de Contribuição
 
-Este é um documento para auxiliar a como contribuir para o projeto **2020.2-SiGeD**. O projeto é constituido de vários repositórios e esse guia é aplicado em todos eles. 
+Este é um documento para auxiliar a como contribuir para o projeto **2021.1-Oraculo**. O projeto é constituido de vários repositórios e esse guia é aplicado em todos eles. 
 
 Orientamos que antes de começar a contribuir veja as [issues já abertas](https://github.com/fga-eps-mds/2021.1-PC-GO/issues).
 
