@@ -20,6 +20,7 @@ nav:
   - Home: index.md
   - Documentação:
       - Documento de Arquitetura: documento-de-arquitetura.md
+      - Metodologia: metodologia.md
       - Identidade Visual: identidade-visual.md
       - Backlog do Projeto: backlog.md
       - Documento de Visão: documento-de-visao.md
