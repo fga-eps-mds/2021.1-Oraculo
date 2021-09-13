@@ -21,6 +21,9 @@ nav:
   - Documentação:
       - Documento de Arquitetura: documento-de-arquitetura.md
       - Identidade Visual: identidade-visual.md
+      - Backlog do Projeto: backlog.md
+      - Documento de Visão: documento-de-visao.md
+      - Roadmap: roadmap.md
       - Protótipo de Alta Fidelidade: prototipo.md
       - Protótipo de Baixa Fidelidade: prototipo-baixa-fidelidade.md
 
@@ -35,3 +38,6 @@ nav:
       - Revisão Técnica, de Negócio e de UX: leanInception/revisao-tecnica.md
       - Sequenciador: leanInception/sequenciador.md
       - Canvas MVP: leanInception/canvasmvp.md
+
+  - Comunidade:
+      - Guia de Contribuição: CONTRIBUTING.md

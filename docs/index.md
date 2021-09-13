@@ -1,17 +1,3 @@
-# Welcome to MkDocs
+# Projeto Oráculo
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+O projeto Oráculo é um sistema que facilita o registro e controle de tramitação de processos dentro do setor de Gerência ed Identificação da Policia Civil do Estado de Goiás. Com esse sistema a GI/PCGO terá um maior controle sobre as tramitações dos documentos dentro do setor em tempo real.
