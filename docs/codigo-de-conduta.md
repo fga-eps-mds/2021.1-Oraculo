@@ -20,6 +20,7 @@ Nosso código de conduta possuem regras que contribuem para criar um ambiente am
 4. Seja respeitoso: Com diferentes pessoas, temos diferentes opiniões. Por isso respeite, mesmo não concordando com o outro. A comunidade quer um ambiente confortável e de fácil convivência. Ameaças e ataques pessoais são repudiados.
 
 5. Tenha cuidado nas palavras que você escolher: Somos uma comunidade de profissionais e nos comportamos profissionalmente. Seja gentil com os outros. Não insulte ou abandone outros participantes. O assédio e outros comportamentos de exclusão não são aceitáveis. Isso inclui, mas não está limitado a:
+
 - Ameaças violentas ou linguagem dirigida contra outra pessoa.
 - Piadas discriminatórias e linguagem.
 - Postar material sexualmente explícito ou violento.
