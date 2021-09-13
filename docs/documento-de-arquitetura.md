@@ -28,15 +28,19 @@ Neste documento serão descritos os componentes de software, padrões arquitetur
 |Frontend|Parte do sistema responsável por ser a interfáce entre o sistema e o usuário|
 |API|Application Programming Interface|
 
+### 1.4 Visão Geral
+
+Este documento contém os detalhes sobre as características arquiteturais que foram optadas pela equipe de desenvolvimento para a solução em software do projeto Oráculo. Nele estão contidos os seguintes pontos: Representação da Arquitetura, Tecnologias, Metas e restrições de Arquitetura, Visão lógica e Visão de implementação.
+
 ## 2. Representação da Arquitetura
 
-![Diagrama de relações](./imgs/architecture/Diagrama de relacoes.png)
+![Diagrama de relações](./imgs/architecture/diagrama-de-relacoes.png)
 
-O diagrama representa a divisão da aplicação em microsserviços de usuário, clientes e demandas e suas correlações.
+O diagrama representa a divisão da aplicação em microsserviços de usuário, tags e de processos com suas correlações.
 
 #### Microsserviços
 
-Os microsserviços foram construídos utilizando Node.Js como framework, onde cada microsserviço tem um banco de dados independente. Para o controle e armazenamento dos dados, foi empregado o banco de dados relacional PostgreSQL.
+Os microsserviços foram construídos utilizando Node.Js juntamente com Express.Js como framework, onde cada microsserviço tem um banco de dados independente. Para o controle e armazenamento dos dados, foi empregado o banco de dados relacional PostgreSQL.
 
 A arquitetura do projeto **Oráculo** será desenvolvido utilizando uma arquitetura orientada a microserviços, onde cada serviço irá possuir um ambiente próprio para o seu desenvolvimento contendo a sua respectiva API para controle de dados sendo esses:
 
@@ -64,12 +68,11 @@ A aplicação web utiliza no front-end o framework React. A divisão é feita em
 
 ### 2.1 Tecnologias
 
-#### NodeJs
+#### Express.JS
 
 O Node.js pode ser definido como um ambiente de execução Javascript server-side.
 
-Isso significa que com o Node.js é possível criar aplicações Javascript para rodar como uma aplicação standalone em uma máquina, não dependendo de um browser para a execução, como estamos acostumados.
-O principal motivo de sua adoção é a sua alta capacidade de escala. Além disso, sua arquitetura, flexibilidade e baixo custo, o tornam uma boa escolha para implementação de Microsserviços e componentes da arquitetura Serverless.
+Express.js foi construído do zero para ser um aplicação flexível e minimalista de Node.js para montar aplicações robustas. Uma de suas principais características emerge de sua simplicidade: o framework não é focado em nenhum componente específico, não tem nenhum mecanismo de mapeamento objeto-relacional pronto para uso.
 
 #### React
 
@@ -88,7 +91,7 @@ O PostgreSQL tem o papel de gerenciar os dados desses bancos de maneira organiza
  - Fácil manutenção
 
 ### 3.2 Restrições
- - **Node.Js:** desenvolvimento dos microsserviços;
+ - **Express.Js:** desenvolvimento dos microsserviços;
  - **React:** framework javascript utilizado para a criação da interface do usuário;
  - **PostgreSQL:** Banco de dados relacional.
 
