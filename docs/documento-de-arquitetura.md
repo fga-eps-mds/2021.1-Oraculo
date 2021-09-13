@@ -36,11 +36,7 @@ Este documento contém os detalhes sobre as características arquiteturais que f
 
 ## 2. Representação da Arquitetura
 
-<<<<<<< HEAD
 ![Diagrama de relações](./imgs/architecture/diagrama-de-relacoes.png)
-=======
-![Diagrama de relações](./assets/imgs/architecture/Diagrama de relacoes.png)
->>>>>>> d55059df2c2aa264711e0609a9596c1e90ae5979
 
 O diagrama representa a divisão da aplicação em microsserviços de usuário, tags e de processos com suas correlações.
 
@@ -95,18 +91,15 @@ O PostgreSQL tem o papel de gerenciar os dados desses bancos de maneira organiza
 - Fácil manutenção
 
 ### 3.2 Restrições
-<<<<<<< HEAD
  - **Express.Js:** desenvolvimento dos microsserviços;
  - **React:** framework javascript utilizado para a criação da interface do usuário;
  - **PostgreSQL:** Banco de dados relacional.
-=======
->>>>>>> d55059df2c2aa264711e0609a9596c1e90ae5979
 
 - **Node.Js:** desenvolvimento dos microsserviços;
 - **React:** framework javascript utilizado para a criação da interface do usuário;
 - **PostgreSQL:** Banco de dados relacional.
 
-## <!-- ### 3.3 Requisitos não funcionais
+<!-- ### 3.3 Requisitos não funcionais
 
 ## 4. Visão dos Casos de Uso
 
