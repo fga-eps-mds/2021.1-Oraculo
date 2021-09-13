@@ -4,7 +4,7 @@ A etápa de brainstorming gera muitas funcionalidades, por isso precisamos anali
 
 para avaliarmos esses três fatores, utilizamos uma escala de um a três.
 
-![tabela esforco, negocio, ux](../imgs/revisao-tecnica1.png)
+![tabela esforco, negocio, ux](../assets/imgs/revisao-tecnica1.png)
 
 usamos tambêm uma classificação em cores, igual a tabela a cima para ter mais um parãmetro de comparação.
 
@@ -14,12 +14,12 @@ No final tivemos essas funcionalidades, sendo duas que são um conjunto de vári
 
 ## Funcionalidades
 
-![Campos](../imgs/revisao-tecnica2.png)
+![Campos](../assets/imgs/revisao-tecnica2.png)
 
 ## Campos
 
-![Campos](../imgs/campos.png)
+![Campos](../assets/imgs/campos.png)
 
 ## Tags
 
-![Tags](../imgs/tags.png)
+![Tags](../assets/imgs/tags.png)

@@ -58,4 +58,4 @@ Como proposto pelo Lean inception, o workshop é bem colaborativo entre todos os
 # O MURAL
 
 Todo processo do lean inception foi desenvolvido usando a ferramenta [MURAL](https://app.mural.co/t/unbfgaepsmds202111846/m/unbfgaepsmds202111846/1627488703481/91fdc4f08e012dbc9a107eef00d3aa94e86acb5c?sender=882c9e8e-18ac-447e-816a-e9b0dee0004f) e como resultado final tivemos o mural abaixo:
-![MURAL-Final](../imgs/MURAL.png)
+![MURAL-Final](../assets/imgs/MURAL.png)

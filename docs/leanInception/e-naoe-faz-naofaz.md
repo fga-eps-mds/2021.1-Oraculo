@@ -6,4 +6,4 @@ Durante a dinâmica, o grupo foi adicionando cartão em cada setor do É - Não 
 
 após ter definido os resultados preliminares, levamos a discussão com o cliente para que ele também aprove os objetivos do produto, depois dessa etapa tivemos esse resultado:
 
-![É - Não é - Faz - Não faz](../imgs/e-naoe-faz-naofaz.png)
+![É - Não é - Faz - Não faz](../assets/imgs/e-naoe-faz-naofaz.png)

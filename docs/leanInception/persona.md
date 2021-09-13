@@ -4,12 +4,12 @@ Para realizar a dinâmica o grupo foi dividido em três grupos de três pessoas 
 
 ## Persona 1
 
-![Persona 1](../imgs/persona1.png)
+![Persona 1](../assets/imgs/persona1.png)
 
 ## Persona 2
 
-![Persona 2](../imgs/persona2.png)
+![Persona 2](../assets/imgs/persona2.png)
 
 ## Persona 3
 
-![Persona 3](../imgs/persona3.png)
+![Persona 3](../assets/imgs/persona3.png)
