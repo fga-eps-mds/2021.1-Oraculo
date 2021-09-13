@@ -12,7 +12,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #1f3541;
+  background-color: #4051b5;
 }
 
 .title {
@@ -143,7 +143,7 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #1f3541;
+  background-color: #4051b5;
   color: white;
   text-align: center;
 }
@@ -151,7 +151,7 @@ footer {
 /* The navigation bar */
 .navbar {
   overflow: hidden;
-  background-color: #1f3541;
+  background-color: #4051b5;
   position: fixed;
   top: 0;
   width: 100%;
