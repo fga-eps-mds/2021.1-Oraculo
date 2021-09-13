@@ -30,7 +30,7 @@ Neste documento serão descritos os componentes de software, padrões arquitetur
 
 ## 2. Representação da Arquitetura
 
-![Diagrama de relações](docs/imgs/Diagrama de relacoes.png)
+![Diagrama de relações](./imgs/architecture/Diagrama de relacoes.png)
 
 O diagrama representa a divisão da aplicação em microsserviços de usuário, clientes e demandas e suas correlações.
 
