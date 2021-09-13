@@ -1,0 +1,156 @@
+<!DOCTYPE HTML>
+<html lang="pt">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Oráculo</title>
+    <link rel="stylesheet" href="./assets/css/landing_page.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+		<script defer src="stylesheets/assets/fontawesome/js/all.min.js"></script>
+    
+  </head>
+
+  <body>
+    
+    <div class="navbar">
+      <div class="nav-links">
+        <a href="https://github.com/fga-eps-mds/2021.1-Oraculo" title="Repositórios">
+          <img src="assets/imgs/home/github-brands.svg" color="#FFFFFF" alt="Repositórios" height="20px" width="20px">
+        </a>
+        <a href="equipe" title="Documentação">
+          <img src="assets/imgs/home/docs-light.svg" alt="Documentação" height="20px" width="20px">
+        </a>
+      </div>
+    </div>
+
+    <div class="page">
+
+    
+    
+      <div class="page-top">
+        <h1 class="title">Oráculo</h1>
+        <p class="description">Projeto feito em parceria com a Gerência de Identificação da Polícia Civíl do Estado de Goiás</p>
+      </div>
+      
+      <div class="container">
+
+        <div class="side-by-side">
+          <div class="text-part">
+            <h2>O que é o projeto?</h2>
+              <p>
+                O projeto Oráculo é um sistema que facilita o registro e controle de tramitação de processos dentro do setor de Gerência ed Identificação da Policia Civil do Estado de Goiás.
+              </p>
+              <p>
+                Com esse sistema a GI/PCGO terá um maior controle sobre as tramitações dos documentos dentro do setor em tempo real.
+              </p>
+          </div>
+          <img class="img-part" src="assets/imgs/logo-dark.png"/>
+        </div>
+
+        <div>
+          <h2 class="team-title-about">O que o Oráculo faz?</h2>
+          <div class="about-thing">
+            <div>
+              <div class="title-about">
+                <img class="title-icon" src="assets/imgs/home/balance-scale-solid.svg" alt="Documentação">
+                <h3 class="team-title">Centraliza</h3>
+
+              </div>
+              <p>
+                Unifica as informações auxiliares das tramitações da Gerencia de Idenficação da Polícia Civil do Estado de Goiás em um só lugar
+              </p>
+            </div>
+            <div>  
+              <div class="title-about">
+                <img class="title-icon" src="assets/imgs/home/exchange-alt-solid.svg" alt="Documentação">            
+                <h3 class="team-title">Tramita</h3>
+              </div>
+              <p>
+                Acompanhar todo o trâmite dos processos. Concentre todos os metadados em um local só
+              </p>
+            </div>
+            <div>
+              <div class="title-about">
+                <img class="title-icon" src="assets/imgs/home/file-solid.svg" alt="Documentação">            
+                <h3 class="team-title">Arquiva</h3>
+              </div>
+              <p>
+                Arquivamento de informações relevantes e armazene-as em um local seguro. 
+              </p>
+            </div>
+          </div>
+        </div>
+        
+
+
+        <div class="buttons">
+          <div class="card-button" onclick="location.href='equipe';">
+            <img class="button-icon" src="assets/imgs/home/docs.svg" alt="Documentação">
+            <p>Acesse a documentação do projeto</p>
+          </div>
+          <div class="card-button" onclick="location.href='https://github.com/fga-eps-mds/2021.1-Oraculo'">
+            <img class="button-icon" src="assets/imgs/home/github.png" alt="Documentação">
+            <p>Veja o Repositório</p>
+          </div>
+        </div>
+
+        <div class="team">
+          <h2 class="team-title">Equipe</h2>
+          <div id="teamMembers">
+        </div>
+      </div>
+
+    </div>
+
+    <footer>
+      <h1 class="footer-title">Oráculo - Sistema de Tramitação de Documentos</h1>
+    </footer>
+
+  </body>
+  <script async onload="getTeamMembers()">
+    const team = [
+      {name: "Érico Bandeira", user: "ericoBandeira", role:"EPS"},
+      {name: "Max Henrique Barbosa",	user: "Maxlobo", role: "EPS"},
+      {name: "João Vitor Moura Rosa",	user: "joaoCeilandia", role: "EPS"},
+      {name: "Victor Rodrigues Silva",	user: "VictorRodriguesS0", role: "EPS"},
+      {name: "Henrique Martins de Messias",	user: "Henrike100", role: "EPS"},
+      {name: "Lucas Vieira de Jesus", user: "lucas-engen", role: "MDS"},
+      {name: "Gabriel Santos Silva Araújo",	user: "GabrielSSAraujo", role: "MDS"},
+      {name: "Antonio Igor Carvalho",	user: "AntonioIgorCarvalho", role: "MDS"},
+      {name: "João Paulo Lima da Silva",	user: "jpaulohe4rt", role: "MDS"},
+    ]
+
+    async function getPhoto (username) {
+
+      let response = await fetch(`https://api.github.com/users/${username}`)
+      if (response.ok) {
+        let data = await response.json()
+        return data.avatar_url
+      } else {
+        console.log("HTTP-Error: " + response.status);
+      }
+    }
+
+    async function getTeamMembers () {
+      await team.map(async (dev) => {
+        let image = await getPhoto(dev.user)
+        teamMembers.innerHTML += `
+        <a href="https://github.com/${dev.user}/">
+          <div class="img-container ">
+            <img src="${image}" alt="${dev.user}" class="image">
+            <div class="middle">
+              <div class="name">${dev.name}</div>
+              <div class="role">${dev.role}</div>
+            </div>
+          </div>
+        </a>
+        `
+      })
+    }
+
+    window.onload = getTeamMembers()
+
+  </script>
+</html>

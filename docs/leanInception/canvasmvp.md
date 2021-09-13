@@ -6,12 +6,12 @@ Nessa ultima atividade dividimos o grupo em dois sub-grupos e fizemos, cada um, 
 
 ## MVP 1
 
-![mvp 1](../imgs/mvp1.png)
+![mvp 1](../assets/imgs/mvp1.png)
 
 ## MVP 2
 
-![mvp 2](../imgs/mvp2.png)
+![mvp 2](../assets/imgs/mvp2.png)
 
 ## MVP Final
 
-![mvp final](../imgs/mvpfinal.png)
+![mvp final](../assets/imgs/mvpfinal.png)

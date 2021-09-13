@@ -17,18 +17,18 @@ plugins:
       lang: pt
 
 nav:
-  - Home: index.md
+  - Home: index.html
   - Documentação:
+      - Equipe: equipe.md
       - Documento de Arquitetura: documento-de-arquitetura.md
       - Metodologia: metodologia.md
       - Informações dos Membros: info-dos-membros.md
       - Identidade Visual: identidade-visual.md
-      - Backlog do Projeto: backlog.md
+      - Backlog do Produto: backlog.md
       - Documento de Visão: documento-de-visao.md
       - Roadmap: roadmap.md
       - Protótipo de Alta Fidelidade: prototipo.md
       - Protótipo de Baixa Fidelidade: prototipo-baixa-fidelidade.md
-      - Equipe: equipe.md
 
   - Lean Inception:
       - Introdução: leanInception/introducao-lean-inception.md
@@ -44,3 +44,4 @@ nav:
 
   - Comunidade:
       - Guia de Contribuição: CONTRIBUTING.md
+      - Código de Conduta: codigo-de-conduta.md

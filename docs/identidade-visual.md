@@ -2,7 +2,7 @@
 
 ## Cores:
 
-![Paleta de Cores](./imgs/paleta-de-cores.jpeg)
+![Paleta de Cores](./assets/imgs/paleta-de-cores.jpeg)
 
 #### Cores principais
 
