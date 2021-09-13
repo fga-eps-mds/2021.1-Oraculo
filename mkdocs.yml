@@ -20,6 +20,9 @@ nav:
   - Home: index.md
   - Documentação:
       - Documento de Arquitetura: documento-de-arquitetura.md
+      - Backlog do Projeto: backlog.md
+      - Documento de Visão: documento-de-visao.md
+      - Roadmap: roadmap.md
 
   - Lean Inception:
       - Introdução: leanInception/introducao-lean-inception.md
@@ -32,3 +35,6 @@ nav:
       - Revisão Técnica, de Negócio e de UX: leanInception/revisao-tecnica.md
       - Sequenciador: leanInception/sequenciador.md
       - Canvas MVP: leanInception/canvasmvp.md
+
+  - Comunidade:
+      - Guia de Contribuição: CONTRIBUTING.md
