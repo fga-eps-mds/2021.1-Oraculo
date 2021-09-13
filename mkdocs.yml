@@ -20,6 +20,8 @@ nav:
   - Home: index.md
   - Documentação:
       - Documento de Arquitetura: documento-de-arquitetura.md
+      - Protótipo de Alta Fidelidade: prototipo.md
+      - Protótipo de Baixa Fidelidade: prototipo-baixa-fidelidade.md
 
   - Lean Inception:
       - Introdução: leanInception/introducao-lean-inception.md
