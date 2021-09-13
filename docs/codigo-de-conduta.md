@@ -22,10 +22,17 @@ Nosso código de conduta possuem regras que contribuem para criar um ambiente am
 5. Tenha cuidado nas palavras que você escolher: Somos uma comunidade de profissionais e nos comportamos profissionalmente. Seja gentil com os outros. Não insulte ou abandone outros participantes. O assédio e outros comportamentos de exclusão não são aceitáveis. Isso inclui, mas não está limitado a:
 
 - Ameaças violentas ou linguagem dirigida contra outra pessoa.
+
 - Piadas discriminatórias e linguagem.
+
 - Postar material sexualmente explícito ou violento.
+
 - Postar (ou ameaçar postar) informações de identificação pessoal de outras pessoas.
+
 - Insultos pessoais, especialmente aqueles que usam termos racistas ou sexistas.
+
 - Atenção sexual indesejada.
+
 - Defendendo ou incentivando qualquer um dos comportamentos acima.
+
 - Assédio repetido de outros. Em geral, se alguém lhe pedir para parar, pare.
