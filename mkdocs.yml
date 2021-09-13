@@ -20,3 +20,15 @@ nav:
   - Home: index.md
   - Documentação:
       - Documento de Arquitetura: documento-de-arquitetura.md
+
+  - Lean Inception:
+      - Introdução: leanInception/introducao-lean-inception.md
+      - Visão de Produto: leanInception/visao-do-produto.md
+      - é - não é - faz - não faz: leanInception/e-naoe-faz-naofaz.md
+      - Objetivo do Produto: leanInception/objetivo-do-negocio.md
+      - Personas: leanInception/persona.md
+      - Jornada do Usuário: leanInception/jornada-de-usuario.md
+      - Brainstormig de Funcionalidades: leanInception/brainstorming-de-funcionalidades.md
+      - Revisão Técnica, de Negócio e de UX: leanInception/revisao-tecnica.md
+      - Sequenciador: leanInception/sequenciador.md
+      - Canvas MVP: leanInception/canvasmvp.md
