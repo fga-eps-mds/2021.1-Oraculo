@@ -25,7 +25,7 @@ O escopo do projeto está associado a necessidade da GIPC-GO em armazenar dados 
 - Back-end - É a camada do software no qual o usuário não terá acesso diretamente, esta camada é onde será guardado os dados, e é consumida pelo Front-end
 - framework - O framework é um conjunto de códigos genéricos e básicos usados como um pacote por desenvolvedores.
 - ReactJs - framework utilizado para o desenvolvimento do Front-end
-- NodeJs - framework utilizado para o desenvolvimento do Back-end
+- Express.Js - framework utilizado para o desenvolvimento do Back-end
 - PO's - Donos do produto (Product Owners) são os usuários que estão em contato direto com o grupo de gestão e de desenvolvimento
 
 
@@ -127,7 +127,7 @@ Usuário de um respectivo setor que possui permissão para criação de um usuá
 ## 6. Restrições
 
 Para o design a equipe de gestão do projeto em conjunto com a equipe de desenvolvimento deverão seguir a paleta de cores e o protótipo, que foram validados pelo PO e pelos clientes do projeto.
-Para restrição de segurança, e até de uso, a plataforma permite que usuários sejam cadastrados por administradores, os usuários que serão cadastrados como funcionários da GIPC-GO que irão poder editar, apenas, de processos vinculados ou enviados para o seu setor. Apenas o admin pode criar campos para processos. Restrição para implementação, o grupo em conjunto decidiu centralizar as plataformas usando Javascript, com os frameworks Reactjs para o Front-end e Nodejs para o Back-end.
+Para restrição de segurança, e até de uso, a plataforma permite que usuários sejam cadastrados por administradores, os usuários que serão cadastrados como funcionários da GIPC-GO que irão poder editar, apenas, de processos vinculados ou enviados para o seu setor. Apenas o admin pode criar campos para processos. Restrição para implementação, o grupo em conjunto decidiu centralizar as plataformas usando Javascript, com os frameworks React.Js para o Front-end e Express.Js para o Back-end.
 
 ## 7. Referências
 IBM Knowledge Center - Documento de Visão: Estruturas de um Documento de Visão.

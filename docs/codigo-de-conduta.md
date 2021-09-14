@@ -11,21 +11,28 @@ Este código de conduta se aplica a todos espaços gerenciados pelo grupo. Isso 
 
 Nosso código de conduta possuem regras que contribuem para criar um ambiente amigável e confortável para todos:
 
-1. Seja amigável e paciente.
+- Seja amigável e paciente.
 
-2. Seja acolhedor: Procure apoiar e ajudar todas as pessoas, indiferente de sua raça, etnia, cultura, nacionalidade, idade, status, gênero, idade, tamanho, capacidade mental e física.
+- Seja acolhedor: Procure apoiar e ajudar todas as pessoas, indiferente de sua raça, etnia, cultura, nacionalidade, idade, status, gênero, idade, tamanho, capacidade mental e física.
 
-3. Seja atencioso: Seu trabalho será usado por outras pessoas e você dependerá do trabalho do trabalho dos outros. Qualquer decisão que você tomar, afetará todos os usuários e colegas. Por isso busque se comunicar e informar os outros de forma simples e que todos entendam.
+- Seja atencioso: Seu trabalho será usado por outras pessoas e você dependerá do trabalho do trabalho dos outros. Qualquer decisão que você tomar, afetará todos os usuários e colegas. Por isso busque se comunicar e informar os outros de forma simples e que todos entendam.
 
-4. Seja respeitoso: Com diferentes pessoas, temos diferentes opiniões. Por isso respeite, mesmo não concordando com o outro. A comunidade quer um ambiente confortável e de fácil convivência. Ameaças e ataques pessoais são repudiados.
+- Seja respeitoso: Com diferentes pessoas, temos diferentes opiniões. Por isso respeite, mesmo não concordando com o outro. A comunidade quer um ambiente confortável e de fácil convivência. Ameaças e ataques pessoais são repudiados.
 
-5. Tenha cuidado nas palavras que você escolher: Somos uma comunidade de profissionais e nos comportamos profissionalmente. Seja gentil com os outros. Não insulte ou abandone outros participantes. O assédio e outros comportamentos de exclusão não são aceitáveis. Isso inclui, mas não está limitado a:
+- Tenha cuidado nas palavras que você escolher: Somos uma comunidade de profissionais e nos comportamos profissionalmente. Seja gentil com os outros. Não insulte ou abandone outros participantes. O assédio e outros comportamentos de exclusão não são aceitáveis. Isso inclui, mas não está limitado a:
 
-- Ameaças violentas ou linguagem dirigida contra outra pessoa.
-- Piadas discriminatórias e linguagem.
-- Postar material sexualmente explícito ou violento.
-- Postar (ou ameaçar postar) informações de identificação pessoal de outras pessoas.
-- Insultos pessoais, especialmente aqueles que usam termos racistas ou sexistas.
-- Atenção sexual indesejada.
-- Defendendo ou incentivando qualquer um dos comportamentos acima.
-- Assédio repetido de outros. Em geral, se alguém lhe pedir para parar, pare.
+  1. Ameaças violentas ou linguagem dirigida contra outra pessoa.
+
+  2. Piadas discriminatórias e linguagem.
+
+  3. Postar material sexualmente explícito ou violento.
+
+  4. Postar (ou ameaçar postar) informações de identificação pessoal de outras pessoas.
+
+  5. Insultos pessoais, especialmente aqueles que usam termos racistas ou sexistas.
+
+  6. Atenção sexual indesejada.
+
+  7. Defendendo ou incentivando qualquer um dos comportamentos acima.
+
+  8. Assédio repetido de outros. Em geral, se alguém lhe pedir para parar, pare.
