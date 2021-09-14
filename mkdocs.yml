@@ -45,3 +45,7 @@ nav:
   - Comunidade:
       - Guia de Contribuição: CONTRIBUTING.md
       - Código de Conduta: codigo-de-conduta.md
+
+  - Sprints:
+      - Sprint 0:
+          - Planning: sprints/sprint0/planning.md
