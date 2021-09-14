@@ -1,4 +1,4 @@
-# Apresentações do projetos
+# Apresentações do projeto
 
 ## Release 1.
 
