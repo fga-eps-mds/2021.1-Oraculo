@@ -85,6 +85,8 @@ Os Pull Requests devem ser feitos na branch **master**.
 Os PRs devem ser feitos seguindo o template:
 
 ```
+**Title:** #X Issue Name
+
 **Issue:** closes #X (sendo #x o link para a issue x)
 
 ## Descrição
