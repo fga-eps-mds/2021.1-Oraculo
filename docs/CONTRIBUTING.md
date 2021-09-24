@@ -68,12 +68,12 @@ Os commits devem ser feitos em inglês utilizando os verbos no imperativo.
 
 Os commits devem ser feitos utilizando o parametro **-s** para ter a assinatura do autor do commit caso o commit tenha sido feito em pareamento, e também deve constar no commit os co-autores.
 
-O commit deve começar com `#x`, sendo x o número da issue que está sendo desenvolvida.
+O commit deve começar com `fga-eps-mds/2021.1-Oraculo#x`, sendo x o número da issue que está sendo desenvolvida.
 
 Exemplo de commit:
 
 ```
-git commit -sm "#7 Add contributing guide
+git commit -sm "fga-eps-mds/2021.1-Oraculo#7 Add contributing guide
 
 Co-authored-by: Nome da dupla <emaildadupla@email.com>"
 ```
@@ -96,7 +96,7 @@ Descrição completa do que foi feito
 
 Onde só deve ser utilizado o *closes* antes do link da issue, caso o PR resolva completamente a issue citada.
 
-Caso o PR seja feito em um dos repositórios de desenvolvimento, o link para a issue do repositório de documentação é feito da seguinte forma: `fga-eps-mds/2021.1-PC-GO#x`, onde x é o número da issue. E no lugar de *closes* deve ser utilizado  ***resolves***.
+Caso o PR seja feito em um dos repositórios de desenvolvimento, o link para a issue do repositório de documentação é feito da seguinte forma: `fga-eps-mds/2021.1-Oraculo#x`, onde x é o número da issue. E no lugar de *closes* deve ser utilizado  ***resolves***.
 
 Em casos de PRs em que ainda estão sendo desenvolvidos, deve ser acrescentado a sigla **WIP** antes do título do PR.
 
