@@ -52,3 +52,6 @@ nav:
           - Planning: sprints/sprint0/planning.md
           - Review: sprints/sprint0/review.md
           - Retrospectiva: sprints/sprint0/retro.md
+
+      - Sprint 1:
+          - Planning: sprints/sprint1/planning.md
