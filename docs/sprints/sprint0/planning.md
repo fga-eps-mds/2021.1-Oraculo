@@ -27,6 +27,7 @@
 
 | Issue                                                                                                                                | Pontos | Responsáveis                        |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------ | ----------------------------------- |
+| [Adicionar a dependência "styled components", "react-router-dom" e "antd"](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/57)                                     | 3      | João Paulo                          |
 | [Adicionar vídeo da apresentação da R1](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/32)                                     | 3      | João Vitor                          |
 | [Adicionar Área de Equipe no DOCS](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/29)                                          | 3      | João Vitor                          |
 | [Criar página de metodologia no Github Pages](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/28)                               | 3      | João Vitor e Érico Bandeira         |
