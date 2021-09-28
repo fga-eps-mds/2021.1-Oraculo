@@ -1,6 +1,6 @@
 # Sprint Planning Grupo 7
 
-# Planejamento Sprint 0
+# Planejamento Sprint 1
 
 ## Objetivos da sprint
 
@@ -11,8 +11,8 @@
 ## Tamanho da Sprint
 
 - Início: 21/09/2021
-- Término: 24/09/2021
-- Duração: 4 dias
+- Término: 27/09/2021
+- Duração: 7 dias
 
 ## Pareamentos
 
