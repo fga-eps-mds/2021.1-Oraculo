@@ -7,6 +7,7 @@
 | 10/08/2021 | 0.1    | Abertura do documento de Arquitetura                         | Érico Maximiano Bandeira |
 | 07/09/2021 | 0.2    | Adição da introdução e Representação da arquitetura          | Max Henrique Barbosa     |
 | 11/09/2021 | 0.3    | Adição de imagem e alteração na Representação da arquitetura | Max Henrique Barbosa     |
+| 23/09/2021 | 0.4    | Adição da Visão Lógica                                       | Max Henrique Barbosa     |
 
 ## 1. Introdução
 
@@ -95,39 +96,23 @@ O PostgreSQL tem o papel de gerenciar os dados desses bancos de maneira organiza
  - **React:** framework javascript utilizado para a criação da interface do usuário;
  - **PostgreSQL:** Banco de dados relacional.
 
-- **Node.Js:** desenvolvimento dos microsserviços;
-- **React:** framework javascript utilizado para a criação da interface do usuário;
-- **PostgreSQL:** Banco de dados relacional.
+## 4. Visão Lógica
 
-<!-- ### 3.3 Requisitos não funcionais
+### 4.1 Modelagem de Dados
 
-## 4. Visão dos Casos de Uso
+![Diagrama de pacotes microsserviços](./imgs/architecture/visao-logica.drawio.png)
 
-### 4.1 Diagrama de Casos de Uso
+### 4.2 Diagrama de Pacotes
 
-### 4.2 Atores de Casos de Uso
+#### Microsserviços
 
-| Ator | Descrição |
-| ---- | --------- |
-| -    | -         |
+![Diagrama de pacotes microsserviços](./imgs/architecture/pacote-microsservicos.drawio.png)
 
-### 4.3 Descrições de Casos de Uso
+#### Front-End
 
-| Épico | Caso de uso | Descrição |
-| ----- | ----------- | --------- |
-| E1    | -           | -         |
-| E2    | -           | -         |
-| E3    | -           | -         |
+![Diagrama de pacotes frontend](./imgs/architecture/pacote-frontend.drawio.png)
 
-## 5. Visão Lógica
-
-### 5.1 Diagrama de Pacotes
-
-## 6. Tamanho e desempenho
-
-## 7. Qualidade -->
-
-## Referências
+### 5. Referências
 
 - Documentação do Postgre - https://www.postgresql.org/docs/
 - Documentação do NodeJs - https://nodejs.org/en/docs/
