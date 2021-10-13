@@ -1,17 +1,17 @@
 # Comissão do Instituto da Polícia Civil de Goias
 
-- Presidente:
+## Presidente:
 
-  Sérgio Neves Mateus Tinoco.
+Sérgio Neves Mateus Tinoco.
 
-- Coordenação Civil:
+## Coordenação Civil:
 
-  Isabel Crhistyna Tales de Carvalho e Larissa Pureza Ferreira Castro.
+Isabel Crhistyna Tales de Carvalho e Larissa Pureza Ferreira Castro.
 
-- Coordenação Criminal:
+## Coordenação Criminal:
 
-  Ana Paula Vicente e Felipe Figueredo Martins.
+Ana Paula Vicente e Felipe Figueredo Martins.
 
-- Ditec:
+## Ditec:
 
-  Bruna Daniella de Souza Silva e Thalita Rodrigues Rocha Amorin
+Bruna Daniella de Souza Silva e Thalita Rodrigues Rocha Amorin
