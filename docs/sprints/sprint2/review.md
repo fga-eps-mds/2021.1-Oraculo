@@ -1,8 +1,8 @@
-# Sprint 1 - Review
+# Sprint 2 - Review
 
-## Resultados obtidos na sprint 1
+## Resultados obtidos na sprint 2
 
-Na sprint 1 a quantidade de pontos concluídos mediana, pelo fato de ter o fechamento da sprint passada adiada, tivemos pouco tempo para esta sprint, então reduzimos um pouco a pontuação dela.
+Na sprint 2 a quantidade de pontos concluídos elevada, pois houve muitos pontos nessa sprint, porém teve muitas não concluídas também pelo mesmo motivo
 
 ### Tarefas Realizadas:
 
