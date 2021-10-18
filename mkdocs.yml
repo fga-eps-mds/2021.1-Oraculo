@@ -63,3 +63,13 @@ nav:
 
       - Sprint 2:
           - Planning: sprints/sprint2/planning.md
+          - Review: sprints/sprint2/review.md
+          - Retrospectiva: sprints/sprint2/retro.md
+
+      - Sprint 3:
+          - Planning: sprints/sprint3/planning.md
+          - Review: sprints/sprint3/review.md
+          - Retrospectiva: sprints/sprint3/retro.md
+
+      - Sprint 4:
+          - Planning: sprints/sprint4/planning.md
