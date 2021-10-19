@@ -2,7 +2,7 @@
 
 ## Análise da sprint
 
-- Houve bastante desenvolviment mas por causa do feriado tivemos problema com reuniões com os PO's.
+- Houve bastante desenvolvimento mas por causa do feriado tivemos problema com reuniões com os PO's.
 
 ## Pontos Positivos listados pela equipe
 
