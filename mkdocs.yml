@@ -29,6 +29,9 @@ nav:
       - Roadmap: roadmap.md
       - Protótipo de Alta Fidelidade: prototipo.md
       - Protótipo de Baixa Fidelidade: prototipo-baixa-fidelidade.md
+      - EVM: evm.md
+      - Gerenciamento de Riscos: gerenciamento-de-riscos.md
+      - PO's: policiais.md
       - Apresentações: apresentacoes.md
 
   - Lean Inception:
@@ -55,3 +58,23 @@ nav:
 
       - Sprint 1:
           - Planning: sprints/sprint1/planning.md
+          - Review: sprints/sprint1/review.md
+          - Retrospectiva: sprints/sprint1/retro.md
+
+      - Sprint 2:
+          - Planning: sprints/sprint2/planning.md
+          - Review: sprints/sprint2/review.md
+          - Retrospectiva: sprints/sprint2/retro.md
+
+      - Sprint 3:
+          - Planning: sprints/sprint3/planning.md
+          - Review: sprints/sprint3/review.md
+          - Retrospectiva: sprints/sprint3/retro.md
+
+      - Sprint 4:
+          - Planning: sprints/sprint4/planning.md
+          - Review: sprints/sprint4/review.md
+          - Retrospectiva: sprints/sprint4/retro.md
+
+      - Sprint 5:
+          - Planning: sprints/sprint5/planning.md
