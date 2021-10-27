@@ -8,6 +8,7 @@
 | 07/09/2021 | 0.2    | Adição da introdução e Representação da arquitetura          | Max Henrique Barbosa     |
 | 11/09/2021 | 0.3    | Adição de imagem e alteração na Representação da arquitetura | Max Henrique Barbosa     |
 | 23/09/2021 | 0.4    | Adição da Visão Lógica                                       | Max Henrique Barbosa     |
+| 26/10/2021 | 0.5    | Atulaização do tópico de Visão lógica Lógica                                       | Max Henrique Barbosa     |
 
 ## 1. Introdução
 
@@ -97,6 +98,8 @@ O PostgreSQL tem o papel de gerenciar os dados desses bancos de maneira organiza
  - **PostgreSQL:** Banco de dados relacional.
 
 ## 4. Visão Lógica
+
+Visando a utilização de microsserviços para o desenvolvimento, faz-se necessário a implementação de bancos de dados separados para cada um dos serviços. Cada banco de acordo com a necessidade e responsabilidade de cada serviço. Sendo que a modelagem de usuários irá salvar as informações referentes aos usuários, seu nível de permissão e seu departamento. Registros irá guardar as informações referentes a estrutura de um registro. E as Tags irão guardar as informações referentes a cada tag de marcação.
 
 ### 4.1 Modelagem de Dados
 
