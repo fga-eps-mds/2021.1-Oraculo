@@ -1,7 +1,7 @@
-site_name: 2021.1 - PC-GO
+site_name: 2021.1 - Oráculo
 
-repo_name: "2021.1-PC-GO"
-repo_url: "https://github.com/fga-eps-mds/2021.1-PC-GO"
+repo_name: "2021.1-Oraculo"
+repo_url: "https://github.com/fga-eps-mds/2021.1-Oraculo"
 
 theme:
   name: "material"
@@ -78,3 +78,8 @@ nav:
 
       - Sprint 5:
           - Planning: sprints/sprint5/planning.md
+          - Review: sprints/sprint5/review.md
+          - Retrospectiva: sprints/sprint5/retro.md
+
+      - Sprint 6:
+          - Planning: sprints/sprint6/planning.md
