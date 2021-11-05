@@ -8,7 +8,7 @@
 | 07/09/2021 | 0.2    | Adição da introdução e Representação da arquitetura          | Max Henrique Barbosa     |
 | 11/09/2021 | 0.3    | Adição de imagem e alteração na Representação da arquitetura | Max Henrique Barbosa     |
 | 23/09/2021 | 0.4    | Adição da Visão Lógica                                       | Max Henrique Barbosa     |
-| 26/10/2021 | 0.5    | Atulaização do tópico de Visão lógica Lógica                                       | Max Henrique Barbosa     |
+| 26/10/2021 | 0.5    | Atualização do tópico de Visão lógica Lógica                                       | Max Henrique Barbosa     |
 
 ## 1. Introdução
 

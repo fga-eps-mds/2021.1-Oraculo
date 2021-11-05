@@ -30,6 +30,21 @@ As issues devem conter:
 - *Labels* signaficativas;
 - *Milestone* (sprint) em que a issue deve ser concluída;
 
+Os issues devem ser criadas seguindo o template:
+
+```
+**Title:** #X Issue Name
+
+## Descrição
+Descrição completa do que foi feito
+
+## Nessa Issue o que deve ser feito
+
+ - [ ] requisito 1
+ - [ ] requisito 2
+ - [ ] requisito 3
+```
+
 ## Politica de branches
 
 ### Repositórios de desenvolvimento

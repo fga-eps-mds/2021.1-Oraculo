@@ -1,10 +1,6 @@
-**Issue:** closes #X
+**Title:** #X Issue Name
 
-<!-- OBSERVAÇÕES:
-  - X é o número da issue
-  - Só utilize o closes se o PR fechar a issue por completo
--->
+**Issue:** closes #X (sendo #x o link para a issue x)
 
 ## Descrição
-
 Descrição completa do que foi feito
