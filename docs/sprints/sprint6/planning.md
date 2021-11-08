@@ -11,7 +11,7 @@
 ## Tamanho da Sprint
 
 - Início: 25/10/2021
-- Término: 02/11/2021
+- Término: 01/11/2021
 - Duração: 7 dias
 
 ## Pareamentos
