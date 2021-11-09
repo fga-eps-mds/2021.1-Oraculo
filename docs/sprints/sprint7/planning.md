@@ -38,7 +38,6 @@
 | [Alterar endpoint que retorna todos os usuários](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/162)                                 | 3      | Lucas Vieira                                |
 | [Criar endpoint para editar registro](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/161)                                            | 5      | Lucas Vieira e Antônio Igor                 |
 | [Criar CRUD de departamentos](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/146)                                                    | 13     | Max Henrique e João Vitor                   |
-| [Hotfix Botão Voltar em Ver Processo](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/157)                                            | 3      | Victor Rodrigues e João Paulo               |
 | [Adicionar lista de registros na HomePage](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/116)                                       | 3      | Érico Bandeira e João Paulo                 |
 | [Integrar página de visualizar todos os registros à de visualizar registro](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/148)      | 3      | João Vitor e Antônio Igor                   |
 | [Completar dados no visualizar registro](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/145)                                         | 5      | João Vitor e Antônio Igor                   |
