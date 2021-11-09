@@ -9,6 +9,7 @@
 | 11/09/2021 | 0.3    | Adição de imagem e alteração na Representação da arquitetura | Max Henrique Barbosa     |
 | 23/09/2021 | 0.4    | Adição da Visão Lógica                                       | Max Henrique Barbosa     |
 | 26/10/2021 | 0.5    | Atualização do tópico de Visão lógica Lógica                                       | Max Henrique Barbosa     |
+| 08/11/2021 | 0.56   | Remoção de Tags, e atualização de 'processos' no documento                                 | Max Henrique Barbosa     |
 
 ## 1. Introdução
 
@@ -40,7 +41,7 @@ Este documento contém os detalhes sobre as características arquiteturais que f
 
 ![Diagrama de relações](./imgs/architecture/diagrama-de-relacoes.png)
 
-O diagrama representa a divisão da aplicação em microsserviços de usuário, tags e de processos com suas correlações.
+O diagrama representa a divisão da aplicação em microsserviços de frontend além de usuário e de registros com suas correlações.
 
 #### Microsserviços
 
@@ -50,9 +51,7 @@ A arquitetura do projeto **Oráculo** será desenvolvido utilizando uma arquitet
 
 - Usuário: serviço responsável por conter as lógicas de autenticação e armazenar as informações dos usuários;
 
-- Processos: serviço responsável pelo gerenciamento, registro, inicio e acompanhamento de processos internos;
-
-- Tags: que serão utilizadas para auxiliar na marcação dos processos.
+- Registros: serviço responsável pelo gerenciamento, registro, inicio e acompanhamento de processos internos, e de suas marcações;
 
 #### Front-End
 
@@ -99,7 +98,7 @@ O PostgreSQL tem o papel de gerenciar os dados desses bancos de maneira organiza
 
 ## 4. Visão Lógica
 
-Visando a utilização de microsserviços para o desenvolvimento, faz-se necessário a implementação de bancos de dados separados para cada um dos serviços. Cada banco de acordo com a necessidade e responsabilidade de cada serviço. Sendo que a modelagem de usuários irá salvar as informações referentes aos usuários, seu nível de permissão e seu departamento. Registros irá guardar as informações referentes a estrutura de um registro. E as Tags irão guardar as informações referentes a cada tag de marcação.
+Visando a utilização de microsserviços para o desenvolvimento, faz-se necessário a implementação de bancos de dados separados para cada um dos serviços. Cada banco de acordo com a necessidade e responsabilidade de cada serviço. Sendo que a modelagem de usuários irá salvar as informações referentes aos usuários, seu nível de permissão e seu departamento. Registros irá guardar as informações referentes a estrutura de um registr, além de guardar as informações a respeito de sua marcação.
 
 ### 4.1 Modelagem de Dados
 
