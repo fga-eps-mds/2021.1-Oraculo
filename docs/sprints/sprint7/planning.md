@@ -27,10 +27,7 @@
 | Issue                                                                                                                                      | Pontos | Responsáveis                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------------------------------------------- |
 | [Criar histórico para armazenamento das conclusões e reaberturas de um registro](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/151) | 8      | Lucas Vieira e Gabriel Santos               |
-| [No header, colocar nome do usuário logado](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/151)                                      | 3      | Érico Bandeira                              |
 | [Fazer funcionalidade da search bar do google na home page](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/158)                      | 13     | Érico Bandeira                              |
-| [Poder editar registro](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/160)                                                          | 8      | João Vitor e Antônio Igor                   |
-| [Trocar branch que o SonarCloud usa para coletar métricas](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/167)                       | 5      | Henrique Marques                            |
 | [Implementar cadastro de usuário no microsserviço de registros](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/142)                  | 8      | Lucas Vieira e Max Henrique                 |
 | [Mudar endpoint do usuário para conter mais informações](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/150)                         | 5      | Lucas Vieira e Antônio Igor                 |
 | [Mudar formato do histórico de registros](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/164)                                        | 8      | Lucas Vieira e Gabriel Santos               |
@@ -49,6 +46,5 @@
 | [Melhorar método para criar registro no banco](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/144)                                   | 5      | Max Henrique e Lucas Vieira                 |
 | [Adicionar campo para armazenar dado do usuário que encaminhou um registro](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/109)      | 5      | Lucas Vieira e Antônio Igor                 |
 | [Criar pagina de gerenciamento de departamentos](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/147)                                 | 13     | Érico Bandeira, João Vitor e Max Henrique   |
-| [US34: Concluir registro](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/88)                                                         | 8      | Lucas Vieira, Gabriel Santos e Antônio Igor |
 | [Atualizar o Doc de arquitetura](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/126)                                                 | 5      | Max Henrique                                |
 | [Implementar login no microsserviço de registros](https://github.com/fga-eps-mds/2021.1-Oraculo/issues/126)                                | 13     | Lucas Vieira e Antônio Igor                 |
