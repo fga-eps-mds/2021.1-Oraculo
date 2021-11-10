@@ -14,7 +14,6 @@ O Projeto é feito utilizando a arquitura baseada em microsserviços, com isso p
 - [Documentação](https://github.com/fga-eps-mds/2021.1-Oraculo)
 - [FrontEnd](https://github.com/fga-eps-mds/2021.1-Oraculo-FrontEnd)
 - [API de Usuários](https://github.com/fga-eps-mds/2021.1-Oraculo-Profile)
-- [API de Tags](https://github.com/fga-eps-mds/2021.1-Oraculo-Tags)
 - [API de Processos](https://github.com/fga-eps-mds/2021.1-Oraculo-Processos)
 
 Para executar o projeto é preciso rodar os seguintes passos em todos os repositórios vinculados ao projeto:
