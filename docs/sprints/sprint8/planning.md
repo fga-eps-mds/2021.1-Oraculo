@@ -1,6 +1,6 @@
 # Sprint Planning Grupo 7
 
-# Planejamento Sprint 7
+# Planejamento Sprint 8
 
 ## Objetivos da sprint
 
