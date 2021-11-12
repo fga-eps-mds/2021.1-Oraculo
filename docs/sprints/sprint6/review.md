@@ -2,7 +2,7 @@
 
 ## Resultados obtidos na sprint 6
 
-Na sprint 5 a quantidade de pontos também foi elevada, pois está chegando perto do ultimo dia de projeto.
+Na sprint 6 a quantidade de pontos também foi elevada, pois está chegando perto do ultimo dia de projeto.
 
 ### Tarefas Realizadas:
 

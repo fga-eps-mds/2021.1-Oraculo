@@ -1,8 +1,8 @@
-# Sprint 6 - Review
+# Sprint 7 - Review
 
-## Resultados obtidos na sprint 6
+## Resultados obtidos na sprint 7
 
-Na sprint 5 a quantidade de pontos também foi elevada, pois está chegando perto do ultimo dia de projeto.
+Na sprint 7 a quantidade de pontos também foi elevada, pois está chegando perto do ultimo dia de projeto.
 
 ### Tarefas Realizadas:
 
