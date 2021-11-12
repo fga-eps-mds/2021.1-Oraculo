@@ -1,6 +1,6 @@
 # Sprint Planning Grupo 7
 
-# Planejamento Sprint 7
+# Planejamento Sprint 8
 
 ## Objetivos da sprint
 
@@ -9,6 +9,8 @@
 - Listar usuários;
 - Poder editar registro;
 - Poder editar um departamento.
+- Finalizar Tags;
+- Alterar filtros;
 
 ## Tamanho da Sprint
 
